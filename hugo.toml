@@ -1,0 +1,4 @@
+baseURL = 'https://indiralessington.net/'
+languageCode = 'en-us'
+title = 'Indira Lessington'
+theme = "paper"
