@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-30T16:34:38-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/outlining-research/</loc>
+    <lastmod>2025-04-30T16:34:38-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-30T16:34:38-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/postive-news-section/</loc>
+    <lastmod>2025-04-30T16:02:02-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cv/</loc>
+    <lastmod>2025-04-30T15:41:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/expertise/</loc>
+    <lastmod>2025-04-30T15:16:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/researchint/</loc>
+    <lastmod>2025-04-30T15:03:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2025-04-30T14:31:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
